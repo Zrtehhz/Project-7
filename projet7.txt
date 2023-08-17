@@ -1,0 +1,20 @@
+Trello = Gestion de ce que tu utilise exemple ta une page de login pour la modale tu utilise quoi tu utilise react-modal.
+
+Tu dois mettre en 3 et 5 sources. ( vidéo/forum ect)
+
+En suite Fichier Word spécificité techniques 
+
+tu dois mettre dans besoin : Le nom de l'user stories
+
+dans solution : qu'elle framework tu va utiliser si c'est bootstrap ou autres
+
+dans description de la solution tu explique brièvement que tu utilise boostrap car c'est ergonomique et simple d'utilisation
+
+en suite tu donne 2 arguments : Bootstrap est simple d'utilisation pour sa rapidité,
+
+il est stable et une prise en main rapide.
+
+Tu fait ça pour tout les user stories 
+
+après tu explique sur trello.
+
